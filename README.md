@@ -7,5 +7,5 @@ You just simply start working on
 <li>js/main.js</li>
 <li>css/main.css</li>
 
-<table>htkrgh</table>
+
   
