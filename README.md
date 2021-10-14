@@ -1,5 +1,5 @@
 # hmtl5-boilerplate
-## This boilerplate is normaly used in WebStorm(IDE) but you can you it any IDE.
+## This boilerplate is ussualy used in WebStorm(IDE) but you can you it any IDE.
 It is a normal html5 boilerplate made in Web Storm (IDE).
 
 You just simply start working on 
